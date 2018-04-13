@@ -1,6 +1,6 @@
 # Archiving Tweets
 
-This is a wrapper for [https://github.com/DocNow/twarc]
+This is instructions for generating a web 'wall' using [twarc](https://github.com/DocNow/twarc) for twitter conversations.
 
 ## Requirements
 
